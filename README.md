@@ -33,15 +33,15 @@ Email Me 👉 ✉️ **rubabshaukatali12@gmail.com** For Collaboration/Project o
 
 # 🔥 GitHub Streaks:
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=rubabshaukatalidev&theme=holi&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubabshaukatalidev&theme=holi&hide_border=true&v=10" alt="Streak Stats" />
 </p>
 
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubabshaukatalidev&theme=holi&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rubabshaukatalidev&theme=holi&hide_border=true&show_icons=true&v=10" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubabshaukatalidev&theme=holi&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubabshaukatalidev&theme=holi&hide_border=true&layout=compact&v=10" alt="Top Languages" />
 </p>
 
 
