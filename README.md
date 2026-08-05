@@ -31,10 +31,23 @@ Email Me 👉 ✉️ **rubabshaukatali12@gmail.com** For Collaboration/Project o
 </div>
 
 
+# 🔥 Streak Status & Activity:
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Streak-Active_&_Maintaining-brightgreen?style=for-the-badge&logo=github" alt="Streak Badge" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/39D353/rubabshaukatalidev" alt="Rubab's GitHub Contributions Grid" />
+</p>
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rubabshaukatalidev&theme=holi&hide_border=true)<br/>
-![](https://github-readme-streak-stats-five.vercel.app/?user=rubabshaukatalidev&theme=holi&hide_border=true&v=1)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rubabshaukatalidev&theme=holi&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rubabshaukatalidev&theme=holi&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubabshaukatalidev&theme=holi&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rubabshaukatalidev&theme=holi&no-frame=false&no-bg=true&margin-w=4)
