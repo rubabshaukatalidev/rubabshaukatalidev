@@ -31,13 +31,9 @@ Email Me 👉 ✉️ **rubabshaukatali12@gmail.com** For Collaboration/Project o
 </div>
 
 
-# 🔥 Streak Status & Activity:
+# 🔥 GitHub Streaks:
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Streak-Active_&_Maintaining-brightgreen?style=for-the-badge&logo=github" alt="Streak Badge" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/39D353/rubabshaukatalidev" alt="Rubab's GitHub Contributions Grid" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=rubabshaukatalidev&theme=holi&hide_border=true" alt="Streak Stats" />
 </p>
 
 
