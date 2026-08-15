@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **rubabshaukatali12@gmail.com** For Collaboration/Project o
 
 🤔 I’m looking for help with: Mastering advanced web animation performance 
 
-💬 Ask me about: HTML/CSS, JavaScript, Responsive Web Design, Canva & Figma
+💬 Ask me about: HTML/CSS, JavaScript, Responsive Web Design, Canva .
 
 📫 How to reach me: rubabshaukatali12@gmail.com
 
