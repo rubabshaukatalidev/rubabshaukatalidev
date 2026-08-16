@@ -1,59 +1,75 @@
-# 💫 Hi , I'm Rubab Shaukat Ali
+# 💫 Hi, I'm Rubab Shaukat Ali
 A passionate Frontend Web Developer & Graphic Designer.
 
 Email Me 👉 ✉️ **rubabshaukatali12@gmail.com** For Collaboration/Project or Anything Else. 😊
 
-🔭 I’m currently working on: Building responsive frontend web projects & interactive portfolio layouts
+🔭 I'm currently working on: Building responsive frontend web projects & interactive portfolio layouts
 
-🌱 I’m currently learning: Advanced JavaScript, Modern UI/UX Design
+🌱 I'm currently learning: Advanced JavaScript, Modern UI/UX Design
 
-👯 I’m looking to collaborate on: Open-source frontend web apps & UI design systems
+👯 I'm looking to collaborate on: Open-source frontend web apps & UI design systems
 
-🤔 I’m looking for help with: Mastering advanced web animation performance 
+🤔 I'm looking for help with: Mastering advanced web animation performance
 
-💬 Ask me about: HTML/CSS, JavaScript, Responsive Web Design, Canva .
+💬 Ask me about: HTML/CSS, JavaScript, Responsive Web Design, Canva
 
 📫 How to reach me: rubabshaukatali12@gmail.com
 
 ⚡ Fun fact: I love turning complex design concepts into clean, functional code!
 
-
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rubab_shaukatali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubab-shaukat-ali-frontend-developer) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@itsrubabdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rubabshaukatali12@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rubab_shaukatali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubab-shaukat-ali-frontend-developer)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@itsrubabdev)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rubabshaukatali12@gmail.com)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+## 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)
 
 <!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-
-# 🔥 GitHub Streaks:
+## 🔥 GitHub Streaks:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubabshaukatalidev&theme=holi&hide_border=true&v=10" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubabshaukatalidev&theme=holi&hide_border=true" alt="Streak Stats" />
 </p>
 
-
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubabshaukatalidev&theme=holi&hide_border=true&show_icons=true&v=10" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubabshaukatalidev&theme=holi&hide_border=true&layout=compact&v=10" alt="Top Languages" />
+  <img src="https://github-readme-stats-zeta-ruddy-26.vercel.app/api?username=rubabshaukatalidev&theme=holi&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats-zeta-ruddy-26.vercel.app/api/top-langs/?username=rubabshaukatalidev&theme=holi&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
-
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rubabshaukatalidev&theme=holi&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rubabshaukatalidev&theme=holi&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rubabshaukatalidev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=rubabshaukatalidev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=rubabshaukatalidev&icon=0&color=0)](https://visitcount.itsvg.in)
- is me streaks ki ,or baki stats ki b images ni show ho rhi tum aisi lagou jo show b ho
+[![Visitor Count](https://komarev.com/ghpvc/?username=rubabshaukatalidev&icon=0&color=0)](https://visitcount.itsvg.in)
