@@ -62,14 +62,19 @@ Email Me 👉 ✉️ **rubabshaukatali12@gmail.com** For Collaboration/Project o
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rubabshaukatalidev&theme=holi&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://nirzak-trophies.vercel.app/?username=rubabshaukatalidev&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
+
+
 
 ### ✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=rubabshaukatalidev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubabshaukatalidev&theme=tokyo-night" alt="Activity Graph" />
+</p>
 
 ---
 [![Visitor Count](https://komarev.com/ghpvc/?username=rubabshaukatalidev&icon=0&color=0)](https://visitcount.itsvg.in)
