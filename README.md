@@ -50,8 +50,7 @@ Email Me 👉 ✉️ **rubabshaukatali12@gmail.com** For Collaboration/Project o
 
 ## 🔥 GitHub Streaks:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubabshaukatalidev&theme=holi&hide_border=true" alt="Streak Stats" />
-</p>
+  <img src="https://github-readme-streak-stats-fawn-omega.vercel.app/?user=rubabshaukatalidev&theme=holi&hide_border=true" alt="Streak Stats" />
 
 ## 📊 GitHub Stats:
 <p align="center">
