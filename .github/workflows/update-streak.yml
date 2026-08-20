@@ -10,7 +10,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Download streak image
         run: |
-          curl -s "https://streak-stats.demolab.com?user=rubabshaukatalidev&theme=react&hide_border=true" -o assets/streak-stats.svg
+             curl -s "https://streak-stats.demolab.com?user=rubabshaukatalidev&theme=react&hide_border=true&fire=FF7F00" -o assets/streak-stats.svg
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
