@@ -1,20 +1,25 @@
-name: Update Streak Stats
+name: Update streak stats
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 3 * * *'
   workflow_dispatch:
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: Download streak image
-        run: |
-            curl -sf "https://streak-stats.demolab.com?user=rubabshaukatalidev&theme=react&hide_border=true&fire=FF7F00" -o assets/streak-stats.new.svg && mv assets/streak-stats.new.svg assets/streak-stats.svg || echo "Streak service down, keeping old image"
-      - name: Commit and push
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=rubabshaukatalidev&theme=react&hide_border=true&fire=FF7F00
+          path: assets/streak-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit streak stats
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/streak-stats.svg
-          git diff --staged --quiet || git commit -m "Update streak stats"
+          git commit -m "Update streak stats" || exit 0
           git push
