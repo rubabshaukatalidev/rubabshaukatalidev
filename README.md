@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **rubabshaukatali12@gmail.com** For Collaboration/Project o
 
 🔭 I'm currently working on: Building responsive frontend web projects & interactive portfolio layouts
 
-🌱 I'm currently learning: Advanced JavaScript, Modern UI/UX Design
+🌱 I'm currently learning: Backend frameworks, Modern UI/UX Design
 
 👯 I'm looking to collaborate on: Open-source frontend web apps & UI design systems
 
