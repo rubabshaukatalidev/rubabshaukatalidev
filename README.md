@@ -1,7 +1,7 @@
 # 💫 Hi, I'm Rubab Shaukat Ali
 A passionate Frontend Web Developer & Graphic Designer.
 
-Email Me 👉 ✉️ **rubabshaukatali12@gmail.com** For Collaboration/Project or Anything Else. 😊
+Email Me 👉 ✉️ **rubabshaukatali12@gmail.com** For Collaboration/Project or Anything Else. 😊🌸
 
 🔭 I'm currently working on: Building responsive frontend web projects & interactive portfolio layouts
 
